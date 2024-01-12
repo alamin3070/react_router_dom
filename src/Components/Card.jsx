@@ -24,7 +24,7 @@ export const Card = ({productInfo}) => {
 </div>
     </>
     
-  )
+  );
 }
 
-export default Card
+export default Card;

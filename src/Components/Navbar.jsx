@@ -91,7 +91,7 @@ function Othernavbar() {
     
   </div>
 </div>
-  )
+  );
 }
 
-export default Othernavbar
+export default Othernavbar;

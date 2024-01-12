@@ -17,7 +17,7 @@ const Profiledetails = () => {
     },[]);
   return (
     <Profilecard single={singleUser} />
-  )
+  );
 }
 
-export default Profiledetails
+export default Profiledetails;
